@@ -1,7 +1,7 @@
 # Participant Registry Microservice
 
 
-A sample Python application that demonstrates simple usage of a REST API and CRUD operations.
+A Python application written using Flask that demonstrates simple usage of a REST API and CRUD operations.
 
 ## Installation
 
